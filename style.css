@@ -20,7 +20,6 @@ background-image: linear-gradient(45deg, #85FFBD 0%, #FFFB7D 100%);
 
 .txtb{
   width: 100%;
- 
   border: 2px solid #000;
   background: none;
   padding: 10px;
@@ -34,7 +33,7 @@ h3{
 
 .task{
   width: 100%;
-  background: rgba(255,255,255,0.8);
+  background: rgba(255, 255, 255, 0.739);
   padding: 18px;
   margin: 6px 0;
   overflow: hidden;
